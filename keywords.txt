@@ -1,0 +1,61 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SensirionI2cSen69c	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+readMeasuredValues	KEYWORD2
+readNumberConcentrationValues	KEYWORD2
+getVocAlgorithmTuningParameters	KEYWORD2
+setVocAlgorithmTuningParameters	KEYWORD2
+getVocAlgorithmState	KEYWORD2
+setVocAlgorithmState	KEYWORD2
+getNoxAlgorithmTuningParameters	KEYWORD2
+setNoxAlgorithmTuningParameters	KEYWORD2
+performForcedCo2Recalibration	KEYWORD2
+performCo2SensorFactoryReset	KEYWORD2
+getCo2SensorAutomaticSelfCalibration	KEYWORD2
+setCo2SensorAutomaticSelfCalibration	KEYWORD2
+getAmbientPressure	KEYWORD2
+setAmbientPressure	KEYWORD2
+getSensorAltitude	KEYWORD2
+setSensorAltitude	KEYWORD2
+startContinuousMeasurement	KEYWORD2
+stopMeasurement	KEYWORD2
+getDataReady	KEYWORD2
+readNumberConcentrationValuesAsIntegers	KEYWORD2
+setTemperatureOffsetParameters	KEYWORD2
+setTemperatureAccelerationParameters	KEYWORD2
+getProductName	KEYWORD2
+getSerialNumber	KEYWORD2
+readDeviceStatus	KEYWORD2
+readAndClearDeviceStatus	KEYWORD2
+getVersion	KEYWORD2
+deviceReset	KEYWORD2
+startFanCleaning	KEYWORD2
+activateShtHeater	KEYWORD2
+getShtHeaterMeasurements	KEYWORD2
+readMeasuredValuesAsIntegers	KEYWORD2
+readMeasuredRawValues	KEYWORD2
+signalDividedBy10Uint16	KEYWORD2
+signalDividedBy10Int16	KEYWORD2
+signalTemperature	KEYWORD2
+signalHumidity	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+sensor	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
