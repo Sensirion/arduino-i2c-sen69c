@@ -34,6 +34,7 @@ getDataReady	KEYWORD2
 readNumberConcentrationValuesAsIntegers	KEYWORD2
 setTemperatureOffsetParameters	KEYWORD2
 setTemperatureAccelerationParameters	KEYWORD2
+getProductType	KEYWORD2
 getProductName	KEYWORD2
 getSerialNumber	KEYWORD2
 readDeviceStatus	KEYWORD2
